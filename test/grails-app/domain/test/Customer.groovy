@@ -5,10 +5,10 @@ class Customer {
     String name
     String value
 
-   /* static mapping = {
+    static mapping = {
         datasource 'dataSource'
     }
-*/
+
     static constraints = {
     }
 }
