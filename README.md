@@ -1,9 +1,12 @@
 # grails3_DatasrouceMapping
 
+
+##Grails env
 Grails Version: 3.1.4
 Groovy Version: 2.4.6
 JVM Version: 1.7.0_80
 
+##Java env
 java version "1.7.0_80"
 Java(TM) SE Runtime Environment (build 1.7.0_80-b15)
 Java HotSpot(TM) 64-Bit Server VM (build 24.80-b11, mixed mode)
