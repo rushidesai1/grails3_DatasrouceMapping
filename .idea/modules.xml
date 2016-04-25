@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test/grails-app/grails-app.iml" filepath="$PROJECT_DIR$/test/grails-app/grails-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/integration-test/integration-test.iml" filepath="$PROJECT_DIR$/test/src/integration-test/integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/build/resources/resources.iml" filepath="$PROJECT_DIR$/test/build/resources/resources.iml" />
+    </modules>
+  </component>
+</project>
